@@ -358,7 +358,10 @@ body{
 	width:90%;
 }
 .get p i{
-	font-size:0.9em;
+	font-size:1em;
+}
+.get p{
+	font-size:0.8em;
 }
 
 }
@@ -368,5 +371,6 @@ body{
 		font-size:1.8em;
 	}
 }
+
 
 
